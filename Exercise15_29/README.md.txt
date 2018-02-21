@@ -1,6 +1,6 @@
 # Project Title
 
-Racing Car
+Racing Car Java FX program that races a car from left to right and repeats back on the left when car moves out of view from the user. The user can also interact with the racing car by clickign their mouse button to stop the car (release mouse button to resume) as well as use the up and down arrow keys to control the speed of the car. 
 
 ## Example Output
 
