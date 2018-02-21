@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+Racing Car
 
 ## Example Output
 
@@ -10,8 +10,9 @@ This image will display as your example output. Name the image README.jpg in you
 
 ## Analysis Steps
 
-This section should restate the assignment and explain how you analyzed the requirements in order 
-to develop a solution.
+
+
+Program that loops a car from the left to right side of the window. When the car reaches the right side of the window it continues from the left side and so on. Mouse button presses should pause the animation, and car speed should be controlled using the Up and Down arrow keys. 
 
 ### Design
 
@@ -22,26 +23,20 @@ Give examples
 ```
 
 ### Testing
-
-A step by step series of examples that you developed to properly test the program. 
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+Car displays in pane.
+Car movies left to right.
+Car leaves right side of screen and continues on left side.
+Animation is paused when mouse click is pressed down.
+Animation resumes on mouse button upstroke.
+Animation speed increases by 1 each time Up Arrow is pressed.
+Animation speed is decreased by 1 each time the Down Arrow is pressed.
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Notes
 
-Explain any issues or testing instructions.
+Having issues with stage and scene with the animation pane.
 
 ## Do not change content below this line
 ## Adapted from a README Built With
