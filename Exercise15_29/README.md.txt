@@ -6,7 +6,7 @@ Racing Car Java FX program that races a car from left to right and repeats back 
 
 This image will display as your example output. Name the image README.jpg in your project folder.
 
-![Sample Output](README.jpg)
+README.jpg
 
 ## Analysis Steps
 
