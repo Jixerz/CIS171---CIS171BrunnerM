@@ -1,47 +1,38 @@
 # Project Title
 
-One Paragraph of project description goes here
+Control Clock program using Java FX that displays a clock showing the current time (seconds, minutes, hours) that is animated and you can see the three hands of the clock moving
+
 
 ## Example Output
 
-This image will display as your example output. Name the image README.jpg in your project folder.
+README.jpg
 
-![Sample Output](README.jpg)
 
 ## Analysis Steps
 
-This section should restate the assignment and explain how you analyzed the requirements in order 
-to develop a solution.
+Modify listing 14.21 so that it is animated and shows the three hands of the clock moving. Add two methods to start and stop the clock that lets the user control the clock.
+
 
 ### Design
 
-How did you approach your program design? Did you use multiple classes to define various objects?
+Used one class for Clock Pane
 
-```
-Give examples
-```
 
 ### Testing
 
-A step by step series of examples that you developed to properly test the program. 
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+Clock displays in pane
+Clock hands all three display
+Clock hands move clockwise
+Clock hands move to correct second, minute, hour locations on clock
+Stop button stops the animation on clock hands
+Start button resumes animation of clock hands
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Notes
 
-Explain any issues or testing instructions.
+Had issues getting the start button to resume animation at the same location the clock hands were stopped at.
+
 
 ## Do not change content below this line
 ## Adapted from a README Built With
