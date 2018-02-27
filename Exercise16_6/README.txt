@@ -1,43 +1,20 @@
 # Project Title
 
-One Paragraph of project description goes here
+JavaFX program that lets the user set the horizontal allignment of characters within text field. It will also allow the user to increase and decrease the collum size via numerical text field.
 
 ## Example Output
 
-This image will display as your example output. Name the image README.jpg in your project folder.
-
-![Sample Output](README.jpg)
+README.jpg
 
 ## Analysis Steps
 
-This section should restate the assignment and explain how you analyzed the requirements in order 
-to develop a solution.
-
-### Design
-
-How did you approach your program design? Did you use multiple classes to define various objects?
-
-```
-Give examples
-```
+Program that displays dynamic text field at the top of window. 3 Radio buttons for Left, Center, and Right for text orientation. Bottom right of window will have additional text field for column size. 
 
 ### Testing
 
-A step by step series of examples that you developed to properly test the program. 
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Text Field displays text.
+Radio buttons correctly position text within text field.
+Numerical text entered into tfColumnSize changes the text field size of tfTextField.
 
 ## Notes
 
