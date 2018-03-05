@@ -1,6 +1,6 @@
 # Project Title
 
-JavaFX program that lets the user set the horizontal allignment of characters within text field. It will also allow the user to increase and decrease the collum size via numerical text field.
+JavaFX program that lets the user enter a loan amount and period of time in years and the program will output monthly as well as full total payments for each interest rate starting at 5% and going to 8%.
 
 ## Example Output
 
@@ -10,15 +10,19 @@ README.jpg
 
 Program that displays dynamic text field at the top of window. 3 Radio buttons for Left, Center, and Right for text orientation. Bottom right of window will have additional text field for column size. 
 
+Progra displays 2 dynamic text fields to handle loan amount and years for the loan. Used pane and scrollpane for the table that outputs the monthly and full payments.  
+
 ### Testing
 
-Text Field displays text.
-Radio buttons correctly position text within text field.
-Numerical text entered into tfColumnSize changes the text field size of tfTextField.
+Text Fields + Labels + button display correctly on top. 
+Table displays below text fields.
+Input from user is calculated.
+Calculation gives correct results.
+Calculation results display in correct rows/collums.
 
 ## Notes
 
-Explain any issues or testing instructions.
+Results did NOT want to display in collums correctly.
 
 ## Do not change content below this line
 ## Adapted from a README Built With
