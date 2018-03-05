@@ -8,9 +8,7 @@ README.jpg
 
 ## Analysis Steps
 
-Program that displays dynamic text field at the top of window. 3 Radio buttons for Left, Center, and Right for text orientation. Bottom right of window will have additional text field for column size. 
-
-Progra displays 2 dynamic text fields to handle loan amount and years for the loan. Used pane and scrollpane for the table that outputs the monthly and full payments.  
+Program displays 2 dynamic text fields to handle loan amount and years for the loan. Used pane and scrollpane for the table that outputs the monthly and full payments.  
 
 ### Testing
 
