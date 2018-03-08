@@ -1,3 +1,4 @@
+<!-- Updated file name and image info to display properly. Looks great! -->
 # Project Title
 
 Control Clock program using Java FX that displays a clock showing the current time (seconds, minutes, hours) that is animated and you can see the three hands of the clock moving
