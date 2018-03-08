@@ -1,6 +1,6 @@
 # Project Title
 
-JavaFX program that lets the user set the horizontal allignment of characters within text field. It will also allow the user to increase and decrease the collum size via numerical text field.
+JavaFX program that lets the user input an amount in USD, the program will then output the conversion in Canadian dollars.
 
 ## Example Output
 
@@ -8,13 +8,14 @@ README.jpg
 
 ## Analysis Steps
 
-Program that displays dynamic text field at the top of window. 3 Radio buttons for Left, Center, and Right for text orientation. Bottom right of window will have additional text field for column size. 
+Program that displays 2 labels (US dollars, Canadian dollars) 2 cooresponding text fields and a button that starts the event listener for conversion.
 
 ### Testing
 
-Text Field displays text.
-Radio buttons correctly position text within text field.
-Numerical text entered into tfColumnSize changes the text field size of tfTextField.
+Labels display correctly.
+Text fields display correctly.
+Convert button executes event listener.
+Conversion displays correctly.
 
 ## Notes
 
