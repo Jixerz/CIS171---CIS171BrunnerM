@@ -14,7 +14,7 @@ import javafx.util.Duration;
 import java.util.Calendar;
 import java.util.Collections;
 import java.util.GregorianCalendar;
-
+/// good use of class, inheritance and methods
 /**
  *
  * @author Jixer
