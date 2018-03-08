@@ -5,7 +5,7 @@ Control Clock program using Java FX that displays a clock showing the current ti
 
 ## Example Output
 
-![pic]README.jpg
+![sample output](README.jpg)
 
 
 ## Analysis Steps
