@@ -1,10 +1,10 @@
-# Project Title
+# Ex 16-6 Demo Text Field
 
 JavaFX program that lets the user set the horizontal allignment of characters within text field. It will also allow the user to increase and decrease the collum size via numerical text field.
 
 ## Example Output
 
-README.jpg
+![Sample Output](README.jpg)
 
 ## Analysis Steps
 
