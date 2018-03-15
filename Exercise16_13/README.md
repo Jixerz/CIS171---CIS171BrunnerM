@@ -4,7 +4,7 @@ JavaFX program that lets the user enter a loan amount and period of time in year
 
 ## Example Output
 
-!(README.jpg)
+![Example output](README.jpg)
 
 ## Analysis Steps
 
