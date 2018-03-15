@@ -1,10 +1,10 @@
-# Project Title
+# Ex 16-13 Compare Loans
 
 JavaFX program that lets the user enter a loan amount and period of time in years and the program will output monthly as well as full total payments for each interest rate starting at 5% and going to 8%.
 
 ## Example Output
 
-README.jpg
+![Example output](README.jpg)
 
 ## Analysis Steps
 
