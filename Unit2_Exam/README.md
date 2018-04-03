@@ -4,7 +4,7 @@ JavaFX program that lets the user input an amount in USD, the program will then 
 
 ## Example Output
 
-README.jpg
+!(README.jpg)
 
 ## Analysis Steps
 
