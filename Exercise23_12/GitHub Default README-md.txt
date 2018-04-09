@@ -14,10 +14,7 @@ Program that randomly generates 1,000,000 integers and sorts them using radix so
 
 ### Design
 
-
-```
-Give examples
-```
+Single class main + radix sort both within class.
 
 ### Testing
 
