@@ -1,25 +1,20 @@
 # Project Title
 
-One Paragraph of project description goes here
+Radix Sort
 
 ## Example Output
 
-This image will display as your example output. Name the image README.jpg in your project folder.
+README.jpg
 
 ![Sample Output](README.jpg)
 
 ## Analysis Steps
 
-This section should restate the assignment and explain how you analyzed the requirements in order 
-to develop a solution.
+Program that randomly generates 1,000,000 integers and sorts them using radix sort.
 
 ### Design
 
-How did you approach your program design? Did you use multiple classes to define various objects?
-
-```
-Give examples
-```
+Single class main + radix sort both within class.
 
 ### Testing
 
