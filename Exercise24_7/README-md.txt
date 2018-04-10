@@ -1,17 +1,14 @@
 # Project Title
 
-One Paragraph of project description goes here
+Animated Linked List
 
 ## Example Output
 
-This image will display as your example output. Name the image README.jpg in your project folder.
-
-![Sample Output](README.jpg)
+README.jpg
 
 ## Analysis Steps
 
-This section should restate the assignment and explain how you analyzed the requirements in order 
-to develop a solution.
+Program that animates search, insert, delete of a linked list. Search button searches the the value in the list. Delete button deletes the value from the list, and Insert button attaches the value to the list if there is no index input by the user, if the user inputs an index it will attach to the specific index in the list.
 
 ### Design
 
