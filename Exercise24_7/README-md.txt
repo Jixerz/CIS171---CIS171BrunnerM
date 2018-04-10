@@ -12,11 +12,7 @@ Program that animates search insert and delete in a linked list. The search butt
 
 ### Design
 
-How did you approach your program design? Did you use multiple classes to define various objects?
-
-```
-Give examples
-```
+Three event listeners one for each: Search, Insert, Delete. Two classes Applet and Pannel one for buttons and arithmatic the other handles drawing the list.
 
 ### Testing
 
