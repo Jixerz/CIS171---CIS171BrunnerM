@@ -5,7 +5,8 @@ Java app that prints shuffled list
 
 ## Example Output
 
-README.jpg
+# you must use this format to display your image:
+![Sample Output](README.jpg)
 
 
 ## Analysis Steps
