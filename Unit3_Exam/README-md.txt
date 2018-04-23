@@ -1,17 +1,14 @@
 # Project Title
 
-One Paragraph of project description goes here
+Program that obtains the execution time for input size 50000, 100,000, 150,000, 200,000, 250,000, and 300,000. The program will create data randomly 
 
 ## Example Output
 
-This image will display as your example output. Name the image README.jpg in your project folder.
-
-![Sample Output](README.jpg)
+README.jpg
 
 ## Analysis Steps
 
-This section should restate the assignment and explain how you analyzed the requirements in order 
-to develop a solution.
+The program will use selection sort, radix sort, bubble sort, merge sort, quick sort, and heap sort to obtain the execution time for specified input sizes.
 
 ### Design
 
