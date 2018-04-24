@@ -1,17 +1,16 @@
 # Project Title
 
-One Paragraph of project description goes here
+Program that raises a flag using a thread with delay time of 10.
 
 ## Example Output
 
-This image will display as your example output. Name the image README.jpg in your project folder.
-
-![Sample Output](README.jpg)
+README.jpg
 
 ## Analysis Steps
 
-This section should restate the assignment and explain how you analyzed the requirements in order 
-to develop a solution.
+30.3 (Raise flags) Rewrite Listing 15.13 using a thread to animate a flag being
+raised. Compare the program with Listing 15.13 by setting the delay time to 10
+in both programs
 
 ### Design
 
