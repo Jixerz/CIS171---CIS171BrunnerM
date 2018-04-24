@@ -3,9 +3,8 @@
 Java app that prints list. shuffles list. then sorts the shuffled list back to default order.  
 
 
-## Example Output
-
-README.jpg
+## Example Output - must display image using required syntax
+![Sample Output](README.jpg)
 
 
 ## Analysis Steps
