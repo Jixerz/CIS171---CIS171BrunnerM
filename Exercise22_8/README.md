@@ -3,4 +3,4 @@
 
 # Display the image
 
-![sample output](readme.jpg.jpg)
+![sample output](README.jpg.jpg)
