@@ -4,7 +4,7 @@ Animated Linked List
 
 ## Example Output
 
-README.jpg
+![Sample Output](README.jpg)
 
 ## Analysis Steps
 
