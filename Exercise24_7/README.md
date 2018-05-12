@@ -1,10 +1,10 @@
-# Project Title
+# Exercise 24_7
 
 Animated Linked List
 
 ## Example Output
 
-README.jpg
+![Sample Output](README.jpg)
 
 ## Analysis Steps
 
