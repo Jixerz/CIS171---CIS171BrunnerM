@@ -1,4 +1,4 @@
-# Project Title
+# Exercise 24_7
 
 Animated Linked List
 
