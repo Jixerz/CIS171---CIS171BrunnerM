@@ -4,7 +4,7 @@ Program that obtains the execution time for input size 50000, 100,000, 150,000, 
 
 ## Example Output
 
-README.jpg
+![Must use the exclamation point](README.jpg)
 
 ## Analysis Steps
 
