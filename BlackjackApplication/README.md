@@ -1,10 +1,8 @@
 # Project Title
 
-One Paragraph of project description goes here
+Java program where a user can play a simple version of the game Black Jack against a computer.
 
 ## Example Output
-
-This image will display as your example output. Name the image README.jpg in your project folder.
 
 ![Sample Output](README.jpg)
 
