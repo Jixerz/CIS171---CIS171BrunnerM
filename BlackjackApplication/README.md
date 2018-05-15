@@ -8,38 +8,29 @@ Java program where a user can play a simple version of the game Black Jack again
 
 ## Analysis Steps
 
-This section should restate the assignment and explain how you analyzed the requirements in order 
-to develop a solution.
+Each player is delt 2 cards from a deck of 52 cards. After the initial 2 cards are delt the player is then given the option to "hit" themselves for additional cards. The computer will repeat that process after the user has completed theirs. The hand that is closest to 21 without going over wins the game. If both the player and computer have the same score from hand, the match will end in a draw.
 
 ### Design
 
-How did you approach your program design? Did you use multiple classes to define various objects?
-
-```
-Give examples
-```
+Multiple classes.
+- BlackJackApplication 
+- Card 
+- Deck 
+- Hand.
 
 ### Testing
 
-A step by step series of examples that you developed to properly test the program. 
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Stage Displays correctly
+Clicking play deals 2 cards to player
+Clicking play deals 2 cards to dealer @ the same time as player
+Cards display suit - rank - value correctly
+If game is won from first draw display the player that won
+Clicking hit will deal 1 additional card to player
+Clicking stand will signal dealer to deal additional cards until dealer reaches at least 17. (the dealer will not "hit" if above 17)
 
 ## Notes
 
-Explain any issues or testing instructions.
+n/a
 
 ## Do not change content below this line
 ## Adapted from a README Built With
